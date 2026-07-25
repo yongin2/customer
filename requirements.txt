@@ -1,4 +1,0 @@
-streamlit
-orange3
-numpy
-pandas
